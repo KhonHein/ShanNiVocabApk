@@ -28,8 +28,10 @@
 
 ## 📥 Installation (တပ်ဆင်ခြင်း)
 
-1. **Download the App**  
-   - [https://drive.google.com/file/d/1xq-tX5mlfL1zJH7ielupPlr0J5ngTvu-/view?usp=drive_link](#) (Drive Link)  
+1. **Download the App** 
+
+- [Google Drive Link](https://drive.google.com/file/d/1xq-tX5mlfL1zJH7ielupPlr0J5ngTvu-/view?usp=drive_link) *(link placeholder)* 
+
 2. **Update Regularly**  
    - အပ်ဒိတ်လိုအပ်ပါက အကြောင်းကြားချက်ပြုလုပ်ပေးမည်။  
 

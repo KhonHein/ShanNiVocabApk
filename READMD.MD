@@ -30,7 +30,7 @@
 
 1. **Download the App** 
 
-- [Google Drive Link](https://drive.google.com/file/d/1xq-tX5mlfL1zJH7ielupPlr0J5ngTvu-/view?usp=drive_link) *(link placeholder)* 
+- [Click Me and Go Download](https://drive.google.com/file/d/1xq-tX5mlfL1zJH7ielupPlr0J5ngTvu-/view?usp=drive_link) *(get apk from google drive )* 
 
 2. **Update Regularly**  
    - အပ်ဒိတ်လိုအပ်ပါက အကြောင်းကြားချက်ပြုလုပ်ပေးမည်။  
